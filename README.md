@@ -14,7 +14,7 @@ We compared four deep learning models (LSTM, CNN, TCN, and GRU) against two base
 
 ## Results
 
-The CNN model achieved an accuracy of X% in predicting the duration of mechanical ventilation on the test set. The results suggest the potential of deep learning techniques, particularly convolutional neural networks, for predicting mechanical ventilation duration in critical care settings.
+The CNN model achieved an MAE which is 41% less than the MAE of the mean value baseline. The results suggest the potential of deep learning techniques, particularly convolutional neural networks, for predicting mechanical ventilation duration in critical care settings.
 
 ## Usage
 
