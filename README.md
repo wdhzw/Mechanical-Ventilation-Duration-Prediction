@@ -22,7 +22,7 @@ To use the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required libraries listed in requirements.txt.
-3. Run the 'main.py' file to train and evaluate the models.
+3. Run the file in the code file to train and evaluate the models.
 
 ## Limitations
 
